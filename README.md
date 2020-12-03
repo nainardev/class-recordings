@@ -3,7 +3,7 @@
 
 Shout-out to Nantha Kumar for uploading classes ❤️
 
-## Chemistry
+## Physics
 | Topics | Date | Size (in MB) | Link |
 |-------|------|-------|----|
 | APF |27 Nov|2048|https://drive.google.com/file/d/1B4uSavsFMPQ2wJB5E_07gnS1yZajzy90/view|
