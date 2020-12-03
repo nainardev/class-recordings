@@ -9,6 +9,7 @@ Shout-out to Nantha Kumar for uploading classes ❤️
 | APF |27 Nov|2048|https://drive.google.com/file/d/1B4uSavsFMPQ2wJB5E_07gnS1yZajzy90/view|
 | Miller Indices |1 Dec|168|https://gofile.io/d/DNnZlw|
 | FCC, defects |18 Nov|168|https://gofile.io/d/wAk4sn|
+| Interplanar distance| 3 Dec|185|https://gofile.io/d/vAUPOI|
 
 
 ## Eng Graphics
