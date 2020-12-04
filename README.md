@@ -28,6 +28,7 @@ Shout-out to Nantha Kumar for uploading classes ❤️
 | Topics | Date  | Link |
 |-------|-------|----|
 | ???? |24 Nov|https://drive.google.com/file/d/1qHm8xwKQSz7r0tjmhz_qen_8iOFDa2c7/view|
+| Modules | 4 Dec | https://gofile.io/d/j21Y1e|
 
 ## Programming 💻
 | Topics | Date  | Link |
