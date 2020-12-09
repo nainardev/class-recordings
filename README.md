@@ -10,7 +10,7 @@ Shout-out to Nantha Kumar for uploading classes ❤️
 | Miller Indices |1 Dec|https://gofile.io/d/DNnZlw|
 | FCC, defects |18 Nov|https://gofile.io/d/wAk4sn|
 | Interplanar distance| 3 Dec|https://gofile.io/d/vAUPOI|
-| HCP | 8 Dec|https://gofile.io/d/XfjnEA|
+| Defects | 8 Dec|https://gofile.io/d/XfjnEA|
 
 
 ## Eng Graphics ✒️
