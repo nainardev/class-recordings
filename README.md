@@ -10,6 +10,7 @@ Shout-out to Nantha Kumar for uploading classes ❤️
 | Miller Indices |1 Dec|https://gofile.io/d/DNnZlw|
 | FCC, defects |18 Nov|https://gofile.io/d/wAk4sn|
 | Interplanar distance| 3 Dec|https://gofile.io/d/vAUPOI|
+| HCP | 8 Dec|https://gofile.io/d/XfjnEA|
 
 
 ## Eng Graphics ✒️
@@ -18,11 +19,14 @@ Shout-out to Nantha Kumar for uploading classes ❤️
 | Ellipse Contruction |1 Dec |https://gofile.io/d/ipVgcU |
 | Ellipse Contruction |2 Dec |https://gofile.io/d/EfBPRS |
 | Rolling Circle | 4 Dec | https://gofile.io/d/APW1sE |
+| Epicycloid hypocycloid|8 Dec|https://gofile.io/d/L4Mf8b|
+
 ## Maths 🔟
 | Topics | Date  | Link |
 |-------|------|----|
 |Eigenvectors|30 Nov|https://gofile.io/d/BgAP1e|
 |Normalized Vectors | 3 Dec| https://gofile.io/d/p9ikAF|
+|???? | 9 Dec | https://gofile.io/d/11xJ8t |
 
 ## Eng Design 💬
 | Topics | Date  | Link |
@@ -34,3 +38,4 @@ Shout-out to Nantha Kumar for uploading classes ❤️
 | Topics | Date  | Link |
 |-------|-------|----|
 | Flowchart |2 Dec |https://gofile.io/d/WISzcO|
+| Assignment Review | 9 Dec | https://gofile.io/d/bAiQzr|
